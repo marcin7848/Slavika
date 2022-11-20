@@ -1,0 +1,57 @@
+/*
+ability:
+//playerss
+1 - kradnie skarby oraz punkty dodatkowe z potworów
+2 - si³a tej karty to 2 + 2 za ka¿dego wojownika w tej krainie
+3 - ta karta mo¿na zostaæ zamieniona za dowoln¹ kartê bohatera
+4 - maksymalna si³a potwora w tej krainie wynosi 4
+5 - wojownik
+6 - wojownik
+
+//monsters
+ability:
+5 - w momencie zagrania tej karty wybierasz jednego bohatera i oddajesz go w rêkê gracza
+6 - dzia³a po ustaleniu wyniku walki ze z³em, je¿eli wygrali bohaterowi, najsilniejszy z nich ma si³ê równ¹ 0
+7 - si³a wojowników spada do 2
+8 - w tej krainie nie dzia³aj¹ umiejêtnoœci bohaterów
+9 - t¹ kartê nale¿y traktowaæ jako bohatera i nale¿y j¹ umieszczaæ po stronie bohaterów
+10 - staje siê kopi¹ dowolnego potwora umieszczonego w dowolnej krainie
+
+pkt - dodatkowe punkty z potworów
+
+//skarb
+pkt - ilosc punktow chwa³y ze skarbu
+noc - 1 jeœli jest noc¹, 0 jeœli nie
+
+//krainy
+ability:
+11 - w tej krainie nie dzia³a umiejêtnoœæ 3 bohaterów (nie mo¿e zostaæ zamieniona dowolnym bohaterem)
+12 - si³a bohaterów z umiejêtnoœci¹ 3 wynosi +1
+13 - stwory z atakiem 2 i 4 w tej krainie maj¹ +1 do ataku
+
+game_obrazek[1] - przycisk POMOC
+game_obrazek[2] - zawiera kolor aktualnego gracza (tzn turê tego gracza)
+game_text[3] - czas do konca tury
+game_obrazek[4] - przycisk KONIEC TURY
+game_obrazek[5] - ZAPISZ GRE
+game_obrazek[6] - WYJSCIE
+game_obrazek[7] - obrazek TALI
+game_obrazek[8] - obrazek DECKU
+
+game_obrazek[9] - T£O na punkty dla SZARY
+game_text[7] - "SZARY"
+game_text[9] - iloœæ punktów SZAREGO
+
+game_obrazek[10] - T£O na punkty dla NIEBIESKI
+game_text[10] - "NIEBIESKI"
+game_text[12] - iloœæ punktów NIEBIESKIEGO
+
+game_obrazek[11] - T£O na punkty dla ZIELONY
+game_text[13] - "ZIELONY"
+game_text[15] - iloœæ punktów ZIELONEGO
+
+game_obrazek[12] - T£O na punkty dla ROZOWY
+game_text[16] - "ROZOWY"
+game_text[18] - iloœæ punktów ROZOWEGO
+
+*/

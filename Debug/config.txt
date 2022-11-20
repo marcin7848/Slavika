@@ -1,0 +1,3 @@
+Window	1366	768
+Music	1
+Fullscreen	1
